@@ -1,0 +1,89 @@
+body { background-color: #000000; 
+  background-image: url(images/graytexture.jpg);
+	font-family: Verdana, Arial, sans-serif;
+}
+h1 { background-color: #000000;
+    color: #666666;
+    line-height: 150%;
+    border-color: #666666;
+    text-align: center;
+    border: ridge;
+    padding-top: 10px;
+}
+h2 { background-color: #000000;
+    color: #666666; 
+    line-height: 120%;
+    font-size: .85em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 5px 0px 5px 0px;
+}
+h3 { background-color: #000000;
+    color: #6699ff; 
+    line-height: 120%;
+    font-size: 1.5em;
+    font-family: Hobo, Pristina, sans-serif ;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding: 10px 0px 0px 0px;
+}
+.two {background-color: #000000;
+  color: #6699ff;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  padding: 10px 0px 10px 0px;
+}
+img {border: ridge;
+    border-color: #666666;
+}
+.content { margin-left: auto;
+          margin-right: auto;
+          width:  60%;
+}
+.nav { margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.footer {background-color: #000000;
+    color: #666666;
+    border-color: #666666;
+    border: ridge;
+    line-height: 150%;
+    font-size: .60em;
+    font-style: italic; 
+    text-align: center;
+}
+#wrapper { margin-left: auto;
+          margin-right: auto;
+          width: 90%;
+}
+#logo {width: 720px;
+    height: 111px;
+    background-image:url(images/jgar.gif);
+    background-repeat: no-repeat;
+    border: 0;
+}
+#workfl {width: 300px;
+    height: 357px;
+    background-image:url(images/flower2c.jpg);
+    background-repeat: no-repeat;
+    border: none;
+}
+#eledance {width: 392px;
+    height: 300px;
+    background-image:url(images/elephantdances.jpg);
+    background-repeat: no-repeat;
+    border: none;
+}
+#faith {width: 80px;
+    height: 60px;
+    background-image:url(images/faithsig.jpg);
+    background-repeat: no-repeat;
+    border: 0;
+}
+  
