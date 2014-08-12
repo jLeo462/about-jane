@@ -55,7 +55,7 @@ img {border: ridge;
     border: ridge;
     line-height: 150%;
     font-size: .60em;
-    font-style: italic; 
+    font-style: Verdana, sans serif; 
     text-align: center;
 }
 #wrapper { margin-left: auto;
